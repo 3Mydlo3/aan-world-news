@@ -1,6 +1,6 @@
 ---
-title: "Hot pursuit in Zelenogorsk, thieves apprehended"
-description: ""
+title: "Hot pursuit through Chernarus, thieves apprehended"
+description: "Suspects were speeding through Chernogorsk, Kabanino and Vybor until crashing on a tree near Zelenogorsk"
 author: "Daniel Spadel"
 profiles: ["Daniel Spadel"]
 profileURL: /profiles/daniel-spadel
