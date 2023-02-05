@@ -1,17 +1,20 @@
 ---
 title: "Russia increases presence on Chernarus border"
 description: "In a response to rebels in northern Chernarus, Russians deploy 3 motorized brigades."
-author: "Jackson Irvine"
-profiles: ["Jackson Irvine"]
-profileURL: /profiles/jackson-irvine
+author: "Tess Cortez"
+profiles: ["Tess Cortez"]
+profileURL: /profiles/tess-cortez
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2021-04-15T14:30:02-05:00
-images: ["/images/russia-buildup.jpg"]
-thumbnail: /images/russia-buildup.jpg
+images: ["image.jpg"]
+thumbnail: thumbnail.jpg
+asidePhoto: thumbnail.jpg
+asideAltText: "Su-34 jets taking off in the morning towards the sun"
+asideText: "Su-34 jets taking off on a patrol mission. (Russian MoD)"
 ---
 
-{{< figure src="/images/russia-buildup.jpg" alt="" caption="Russian forces on the move on the Russia-Chernarus border. (BBN Global)" >}}
+{{< figure src="image.jpg" alt="Russian planes take off from airfield in the morning. Infantry entering helicopters can be seen in the background." caption="One of redeployed brigardes comes from Fapovo island, jets taking off and infantry loading into helicopters can be seen. (Russian MoD)" >}}
 
 Russian MoD announced increase in the military presence on the Chernarus border as a response to rebels in northern Chernarus.
 

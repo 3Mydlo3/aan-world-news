@@ -14,7 +14,7 @@ asideAltText: "Forest shootout scene secured by Militia"
 asideText: "Forest shootout from a few days ago"
 ---
 
-{{< figure src="image.png" alt="Militia man standing, dead body in a pool of blood just in front of him. Woman hangs from a tree in the distance." caption="Militia patrol arrived just to find dead bodies in a very disturbing scene. (photo courtesy of an anonymous citizen)" >}}
+{{< figure src="image.jpg" alt="Militia man standing, dead body in a pool of blood just in front of him. Woman hangs from a tree in the distance." caption="Militia patrol arrived just to find dead bodies in a very disturbing scene. (photo courtesy of an anonymous citizen)" >}}
 
 ### Disturbing morning violence
 

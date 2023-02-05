@@ -7,11 +7,11 @@ profileURL: /profiles/tess-cortez
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2021-05-02T20:21:32+02:00
-asidePhoto: /images/bags.jpg
-asideAltText: "PLACEHOLDER"
-asideText: "PLACEHOLDER"
-images: ["/images/bags.jpg"]
-thumbnail: /images/bags.jpg
+asidePhoto: usmc-in-balota-during-liberation-2017.jpg
+asideAltText: "2 US Marines guard road between Balota and Chernarus during liberation in 2017"
+asideText: "2 US Marines guard road between Balota and Chernarus during liberation in 2017"
+images: ["flags.jpg", "usmc-in-balota-during-liberation-2017.jpg"]
+thumbnail: flags.jpg
 ---
 
 Following today's coup in Chernarus and Russian Forces entering the country, NATO General Secretary called a press conference at 8 PM.
