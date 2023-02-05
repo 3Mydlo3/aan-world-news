@@ -10,19 +10,19 @@ date: 2021-04-15T14:30:02-05:00
 images: ["image.jpg"]
 thumbnail: thumbnail.jpg
 asidePhoto: thumbnail.jpg
-asideAltText: "Su-34 jets taking off in the morning towards the sun"
+asideAltText: "Su-34 jets taking off towards the morning sun"
 asideText: "Su-34 jets taking off on a patrol mission. (Russian MoD)"
 ---
 
-{{< figure src="image.jpg" alt="Russian planes take off from airfield in the morning. Infantry entering helicopters can be seen in the background." caption="One of redeployed brigardes comes from Fapovo island, jets taking off and infantry loading into helicopters can be seen. (Russian MoD)" >}}
+{{< figure src="image.jpg" alt="Russian planes take off from an airfield in the morning. Infantry embarking on helicopters can be seen in the background." caption="One of the redeployed brigades comes from Fapovo island, jets taking off and infantry loading into helicopters can be seen. (Russian MoD)" >}}
 
 Russian MoD announced increase in the military presence on the Chernarus border as a response to rebels in northern Chernarus.
 
 ## Rebels in Chernarus concern Russia
 
-"Chernarus cannot handle the rebels within their territory and we are concerned about our security." says Colonel Anatolii Dragutin. "We have decided to move three motorized brigades near the border to prevent the rebels from crossing the border illegally."
+"Chernarus cannot handle the rebels within their territory and we are concerned about our security." says Colonel Anatolii Dragutin. "We have decided to move three motorized brigades near the border to prevent the rebels from illegally crossing into Russia."
 
-"We are open to cooperation with Chernarus to end the rebellion."
+"We are open to cooperate with Chernarus to end the rebellion."
 
 ## Chernarus declines Russian help offer
 
