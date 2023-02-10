@@ -7,11 +7,11 @@ profileURL: /profiles/daniel-spadel
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2021-06-08T19:17:25+02:00
-images: ["image.jpg"]
-thumbnail: image.jpg
+images: ["anti-chedaki-protests-in-chernogorsk.jpg"]
+thumbnail: anti-chedaki-protests-in-chernogorsk.jpg
 ---
 
-{{< figure src="image.jpg" alt="Militia crowd control unit on a Chernogorsk street. Fires in the background, a lot of bricks on the street." caption="Militia deployed highly violent crowd control unit to deal with the riot. (courtesy of an anonymous citizen)" >}}
+{{< figure src="anti-chedaki-protests-in-chernogorsk.jpg" alt="Militia crowd control unit on a Chernogorsk street. Fires in the background, a lot of bricks on the street." caption="Militia deployed highly violent crowd control unit to deal with the riot. (courtesy of an anonymous citizen)" >}}
 
 ### Dissatisfaction of Chernarus citizens grows
 

@@ -7,14 +7,14 @@ profileURL: /profiles/daniel-spadel
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2021-03-14T08:32:12+02:00
-asidePhoto: side-image.jpg
+asidePhoto: militiamen-and-worker-at-strike-in-stink-factory.jpg
 asideAltText: "Militia officer takes a picture with one of the workers"
 asideText: "Some Militia officers support local workers (photo courtesy of a worker)"
-images: ["image.jpg", "side-image.jpg"]
-thumbnail: side-image.jpg
+images: ["strike-at-chernogorks-stink-factory.jpg", "militiamen-and-worker-at-strike-in-stink-factory.jpg"]
+thumbnail: militiamen-and-worker-at-strike-in-stink-factory.jpg
 ---
 
-{{< figure src="image.jpg" alt="" caption="Strike at Chernogorsk's stink factory is very civil and peaceful, Militia guards the order and supports the protesting workers. (AAN News)" >}}
+{{< figure src="strike-at-chernogorks-stink-factory.jpg" alt="" caption="Strike at Chernogorsk's stink factory is very civil and peaceful, Militia guards the order and supports the protesting workers. (AAN News)" >}}
 
 ### Workers demand better pay and work conditions
 

@@ -7,14 +7,14 @@ profileURL: /profiles/tess-cortez
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2021-04-15T14:30:02-05:00
-images: ["image.jpg"]
-thumbnail: thumbnail.jpg
-asidePhoto: thumbnail.jpg
+images: ["russian-planes-and-helicopters-taking-off-at-fapovo-base.jpg"]
+thumbnail: su-34s-taking-off-at-sunrise.jpg
+asidePhoto: su-34s-taking-off-at-sunrise.jpg
 asideAltText: "Su-34 jets taking off towards the morning sun"
 asideText: "Su-34 jets taking off on a patrol mission. (Russian MoD)"
 ---
 
-{{< figure src="image.jpg" alt="Russian planes take off from an airfield in the morning. Infantry embarking on helicopters can be seen in the background." caption="One of the redeployed brigades comes from Fapovo island, jets taking off and infantry loading into helicopters can be seen. (Russian MoD)" >}}
+{{< figure src="russian-planes-and-helicopters-taking-off-at-fapovo-base.jpg" alt="Russian planes take off from an airfield in the morning. Infantry embarking on helicopters can be seen in the background." caption="One of the redeployed brigades comes from Fapovo island, jets taking off and infantry loading into helicopters can be seen. (Russian MoD)" >}}
 
 Russian MoD announced increase in the military presence on the Chernarus border as a response to rebels in northern Chernarus.
 

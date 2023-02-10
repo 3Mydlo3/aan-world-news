@@ -7,11 +7,11 @@ profileURL: /profiles/daniel-spadel
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2021-04-22T09:23:16+02:00
-images: ["image.png"]
-thumbnail: image.png
+images: ["militia-secured-shootout-scene-in-forest-near-berezino.png"]
+thumbnail: militia-secured-shootout-scene-in-forest-near-berezino.png
 ---
 
-{{< figure src="image.png" alt="Militia armed with AKs inspects the ambush site. Militia cars pierced with bullet holes. Few body bags and a pool of blood." caption="Militia secures the scene. Lada took heavy fire, but provided enough cover. Some blood and bodybags visible. (AAN World News)" >}}
+{{< figure src="militia-secured-shootout-scene-in-forest-near-berezino.png" alt="Militia armed with AKs inspects the ambush site. Militia cars pierced with bullet holes. Few body bags and a pool of blood." caption="Militia secures the scene. Lada took heavy fire, but provided enough cover. Some blood and bodybags visible. (AAN World News)" >}}
 
 ### Today at 7 AM, a heavy shootout occurred in the outskirts of Berezino
 

@@ -7,11 +7,11 @@ profileURL: /profiles/daniel-spadel
 category: ["World"]
 tags: ["Middle East"]
 date: 2022-01-23T17:17:24+02:00
-images: ["image.jpg"]
-thumbnail: image.jpg
+images: ["takistan-cigarette-smugglers-hideout-found.jpg"]
+thumbnail: takistan-cigarette-smugglers-hideout-found.jpg
 ---
 
-{{< figure src="image.jpg" alt="Anizay police secured smuggler's hideout" caption="Police secured smuggler's hideout in southern Anizay with multiple crates of illegal goods. (AAN News)" >}}
+{{< figure src="takistan-cigarette-smugglers-hideout-found.jpg" alt="Anizay police secured smuggler's hideout" caption="Police secured smuggler's hideout in southern Anizay with multiple crates of illegal goods. (AAN News)" >}}
 
 After months of infiltration and espionage, Takistan's security services finally managed to get their hands on cigarette smuglers that tried to avoid export tax.
 

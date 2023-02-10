@@ -10,8 +10,8 @@ date: 2021-05-02T20:21:32+02:00
 asidePhoto: usmc-in-balota-during-liberation-2017.jpg
 asideAltText: "2 US Marines guard road between Balota and Chernarus during liberation in 2017"
 asideText: "2 US Marines guard road between Balota and Chernarus during liberation in 2017"
-images: ["flags.jpg", "usmc-in-balota-during-liberation-2017.jpg"]
-thumbnail: flags.jpg
+images: ["few-nato-flags.jpg", "usmc-in-balota-during-liberation-2017.jpg"]
+thumbnail: few-nato-flags.jpg
 ---
 
 Following today's coup in Chernarus and Russian Forces entering the country, NATO General Secretary called a press conference at 8 PM.

@@ -7,16 +7,16 @@ profileURL: /profiles/daniel-spadel
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2022-03-15T20:57:51+02:00
-images: ["image.jpg"]
-thumbnail: image.jpg
-asidePhoto: /articles/chernarus/2022/03/long-military-train-in-zelenogorsk/image.jpg
+images: ["overturned-btr-zelenogorsk.jpg"]
+thumbnail: overturned-btr-zelenogorsk.jpg
+asidePhoto: /articles/chernarus/2022/03/long-military-train-in-zelenogorsk/train-arriving-in-zelenogorsk.jpg
 asideAltText: "Train arriving in Zelenogorsk"
 asideText: "Train from Russia arriving in Zelenogorsk today morning"
 featured: true
 weight: 2
 ---
 
-{{< figure src="image.jpg" alt="Overturned BTR and crashed UAZ on the main street in Zelenogorsk." caption="Seems like someone tried to steal a BTR. Both vehicles heavily damaged. (courtesy of an anonymous person)" >}}
+{{< figure src="overturned-btr-zelenogorsk.jpg" alt="Overturned BTR and crashed UAZ on the main street in Zelenogorsk." caption="Seems like someone tried to steal a BTR. Both vehicles heavily damaged. (courtesy of an anonymous person)" >}}
 
 ### All they had to do was unload the damn train
 

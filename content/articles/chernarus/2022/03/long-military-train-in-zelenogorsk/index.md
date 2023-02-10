@@ -7,14 +7,14 @@ profileURL: /profiles/daniel-spadel
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2022-03-15T07:16:37+02:00
-images: ["image.jpg"]
-thumbnail: image.jpg
-asidePhoto: side-image.jpg
+images: ["train-arriving-in-zelenogorsk.jpg"]
+thumbnail: train-arriving-in-zelenogorsk.jpg
+asidePhoto: train-driving-through-the-forest.jpg
 asideAltText: "Train traversing Chernarus visible from afar"
 asideText: "Train traversed through foggy Chernarus (photo courtesy of an anonymous reader)"
 ---
 
-{{< figure src="image.jpg" alt="Long train with military equipment and vehicles approaches Zelenogorsk. Tower of Zelena Gora is visible in the background." caption="Military train with vehicles arrived in Zelenogorsk. (courtesy of an anonymous person)" >}}
+{{< figure src="train-arriving-in-zelenogorsk.jpg" alt="Long train with military equipment and vehicles approaches Zelenogorsk. Tower of Zelena Gora is visible in the background." caption="Military train with vehicles arrived in Zelenogorsk. (courtesy of an anonymous person)" >}}
 
 ### Military train came from Russia
 

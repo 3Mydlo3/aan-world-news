@@ -7,11 +7,6 @@ profileURL: /profiles/mark-macmahon
 category: ["World", "Sport"]
 tags: ["Europe"]
 date: 2021-05-21T22:34:02+02:00
-asidePhoto: /images/bags.jpg
-asideAltText: "PLACEHOLDER"
-asideText: "PLACEHOLDER"
-images: ["/images/bags.jpg"]
-thumbnail: /images/bags.jpg
 ---
 
 Optimism, disappointment, lack of faith in making up for losses and incredible joy after an unbelievable win are just a few of the vast range of emotions that Czech players gave their fans tonight.
