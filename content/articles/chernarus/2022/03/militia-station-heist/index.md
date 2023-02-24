@@ -28,13 +28,13 @@ Apart from the released bandits, two weapon crates and a briefcase with money is
 
 We've managed to get a quick interview with one of the Militia men that was present at the station during the heist.
 
-- "Seconds before they breached back door, I'd left the station to turn off the engine of a crashed Militia car just outside the buildng. It was still pretty dark outside, and while walking to the car I thought I saw some movement on the station parking, but I ignored that. Seconds after I turned off the engine, I heard something like an explosion. Initially, I thought it's just another accident, but then my partner didn't respond on the radio. I went to the back door and saw it was blown off. I've reached for my gun and walked slowly towards the door. I spotted a bastard casually leaving the station and I started shooting."
-- "So there were no gunshots before? Shouldn't you first order him to stop and drop his weapon or something like this?"
-- "I should have, but I panicked."
-- "That's understandable, but Militia men should respect the law and the rules at all times. That's what you're trained for."
-- "So anyway, I started blasting at the bastard. I managed to knock him out, then the second one came out and I knocked him out too. Fortunately, they missed me with their shotgun shots. The third one saw that and yelled at me to drop my weapon and threw a flashbang at me while someone else screamed they had a hostage. After that, I was shot in my right leg. I had to give up."
-- "Third? That seems like a big, well organized group."
-- "Actually, I think there were 4 robbers. I managed to shoot 2 and 5 escaped, including the 3 imprisoned before."
+- **M:** *"Seconds before they breached back door, I'd left the station to turn off the engine of a crashed Militia car just outside the buildng. It was still pretty dark outside, and while walking to the car I thought I saw some movement on the station parking, but I ignored that. Seconds after I turned off the engine, I heard something like an explosion. Initially, I thought it's just another accident, but then my partner didn't respond on the radio. I went to the back door and saw it was blown off. I've reached for my gun and walked slowly towards the door. I spotted a bastard casually leaving the station and I started shooting."*
+- **AAN:** *"So there were no gunshots before? Shouldn't you first order him to stop and drop his weapon or something like this?"*
+- **M:** *"I should have, but I panicked."*
+- **AAN:** *"That's understandable, but Militia men should respect the law and the rules at all times. That's what you're trained for."*
+- **M:** *"So anyway, I started blasting at the bastard. I managed to knock him out, then the second one came out and I knocked him out too. Fortunately, they missed me with their shotgun shots. The third one saw that and yelled at me to drop my weapon and threw a flashbang at me while someone else screamed they had a hostage. After that, I was shot in my right leg. I had to give up."*
+- **AAN:** *"Third? That seems like a big, well organized group."*
+- **M:** *"Actually, I think there were 4 robbers. I managed to shoot 2 and 5 escaped, including the 3 imprisoned before."*
 
 Wounded robbers were taken to Zelenogorsk healthcare center in a critical state. Their identity is still unknown as doctors refuse access to anyone until state of the robbers is stable. In the event, 3 Militia men were shot and required medical attention. However, their wounds were superficial.
 
