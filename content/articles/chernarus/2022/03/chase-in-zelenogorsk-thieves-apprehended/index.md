@@ -9,8 +9,6 @@ tags: ["Chernarus", "Europe"]
 date: 2022-03-17T21:27:37+02:00
 images: ["hot-pursuit-crashed-pickup-scene.jpg"]
 thumbnail: hot-pursuit-crashed-pickup-scene.jpg
-featured: true
-weight: 1
 ---
 
 {{< figure src="hot-pursuit-crashed-pickup-scene.jpg" alt="Pickup crashed into a tree, surrounded by Militia cars. Militia arresting two perpetrators, another one tries to escape on foot, chased by 3 Militia men. One officer carries the retrieved briefcase." caption="Pursuit ended north of Zelenogorsk with pickup smashing into a tree on the side of the road. (AAN World News)" >}}
