@@ -10,7 +10,7 @@ date: 2022-03-23T07:13:43+02:00
 images: ["base-commander-cleaning-trash.jpg"]
 thumbnail: base-commander-cleaning-trash.jpg
 featured: true
-weight: 1
+weight: 2
 ---
 
 {{< figure src="base-commander-cleaning-trash.jpg" alt="Former Zelenogorsk base commander seen cleaning trash in some remote chedaki camp. Two chedaks standing in a guard box." caption="Rumours said base commander was demoted to private. Turns out he indeed cleans trash in some remote chedaki camp. (AAN World News)" >}}

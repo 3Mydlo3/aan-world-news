@@ -13,7 +13,7 @@ asidePhoto: ziuk-garlinski-apperhended.jpg
 asideAltText: "Ziuk Garlinski arrested in Zelenogorsk"
 asideText: "Ziuk Garlinski, a farmer from Pogorevka, wrongly arrested and released shortly after"
 featured: true
-weight: 2
+weight: 3
 ---
 
 {{< figure src="zelenogorsk-militia-station-heist-scene.jpg" alt="Zelenogorsk militia station. Visible car wrecks and Orel Militia officers near a convoy van." caption="Tough day for Zelenogorsk Militia as the station and its immediate proximity requires maintenance and cleaning after the robbery. (AAN World News)" >}}
