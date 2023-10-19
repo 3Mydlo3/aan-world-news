@@ -15,15 +15,15 @@ weight: 1
 
 {{< figure src="vibor-square-after-incident" alt="Overturned chairs and blood smears at the Vibor Square monument Cartridges can be seen lying on the ground." caption="Militia promptly opened fire to protesters against Chedaki occupiers. (AAN World News)" >}}
 
-### PEACEFUL GATHERING TURNS INTO MASSACRE
+### PEACEFUL GATHERING TURNS INTO HEATED PROTEST
 
 It was a peaceful day when citizens of Vibor gathered at the town's square to commemorate victims of the last war. Prayer and memorial service were planned to be conducted by a local priest. The gathered quickly started to become agitated by the priest's words, regarding not only the past wars, but also current situation in Chernarus and its Chedaki occupation.
 As the unease grew more and more, with voices from the crowd shouting out Chedaki wrongdoings against local families, the priest invited everyone to take matters in their own hands - unknowingly starting a mostly peaceful protest. 
 
 ### MILITIA ANSWERED WITH VIOLENCE
 
-Despite facing a few angry people, the militia acted with disporportionate force, opening fire from their automatic rifles on the protesters within minutes. First bursts claimed lives of several Viborians and caused the rest to flee in panic. Those who successfully escaped were forced to hide in alleys around the quare, not to be hunted down.
-At this time we do not have exact information on the number of the victims, nor do we know if the conducting priest survived. We will follow up as soon as possible.
+Despite facing a few angry people, the militia acted with disporportionate force, opening fire from their automatic rifles on the protesters within minutes. First bursts caused the crowd to flee in panic, luckily no one was shot or even wounded. Those who successfully escaped were forced to hide in alleys around the square, in order not to be taken to prison.
+The only wound suffered by Viborians was a sprained ankle.
 
 ### MILITIA'S REPUTATION ON DECLINE
 
