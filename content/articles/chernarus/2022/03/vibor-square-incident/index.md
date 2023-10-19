@@ -2,8 +2,8 @@
 title: "Vibor Square incident"
 description: "Protest against Chedaki occupiers met a quick and brutal response"
 author: "Djohar Bobrav"
-profiles: ["Jay Jaydel"]
-profileURL: /profiles/jay-jaydel
+profiles: ["Djohar Bobrav", "Daniel Spadel"]
+profileURL: /profiles/djohar-bobrav
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2022-03-24T08:34:12+02:00
@@ -13,12 +13,12 @@ featured: true
 weight: 1
 ---
 
-{{< figure src="vibor-square-after-incident" alt="Overturned chairs and blood smears at the Vibor Square monument Cartridges can be seen lying on the ground." caption="Militia promptly opened fire to protesters against Chedaki occupiers. (AAN World News)" >}}
+{{< figure src="vibor-square-after-incident.jpg" alt="Overturned chairs and blood smears at the Vibor Square monument Cartridges can be seen lying on the ground." caption="Militia promptly opened fire to protesters against Chedaki occupiers. (AAN World News)" >}}
 
 ### PEACEFUL GATHERING TURNS INTO HEATED PROTEST
 
 It was a peaceful day when citizens of Vibor gathered at the town's square to commemorate victims of the last war. Prayer and memorial service were planned to be conducted by a local priest. The gathered quickly started to become agitated by the priest's words, regarding not only the past wars, but also current situation in Chernarus and its Chedaki occupation.
-As the unease grew more and more, with voices from the crowd shouting out Chedaki wrongdoings against local families, the priest invited everyone to take matters in their own hands - unknowingly starting a mostly peaceful protest. 
+As the unease grew more and more, with voices from the crowd shouting out Chedaki wrongdoings against local families, the priest invited everyone to take matters in their own hands - unknowingly starting a mostly peaceful protest.
 
 ### MILITIA ANSWERED WITH VIOLENCE
 

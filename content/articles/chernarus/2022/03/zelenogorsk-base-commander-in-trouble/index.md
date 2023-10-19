@@ -1,9 +1,9 @@
 ---
 title: "Zelenogorsk Base Commander in trouble"
 description: "Zelenogorsk Base scandal destroys commander's career"
-author: "Daniel Spadel"
-profiles: ["Daniel Spadel"]
-profileURL: /profiles/daniel-spadel
+author: "Djohar Bobrav"
+profiles: ["Djohar Bobrav", "Daniel Spadel"]
+profileURL: /profiles/djohar-bobrav
 category: ["World"]
 tags: ["Chernarus", "Europe"]
 date: 2022-03-23T07:13:43+02:00
