@@ -1,7 +1,7 @@
 ---
 title: "Vibor Square incident"
-description: "Quickly and brutally suppressed the protest against Chedaki occupiers"
-author: "Jay Jaydel"
+description: "Protest against Chedaki occupiers met a quick and brutal response"
+author: "Djohar Bobrav"
 profiles: ["Jay Jaydel"]
 profileURL: /profiles/jay-jaydel
 category: ["World"]
@@ -13,16 +13,20 @@ featured: true
 weight: 1
 ---
 
-{{< figure src="vibor-square-after-incident" alt="Overturned chairs in front of the monument at Vibor square. Cartridges can be seen lying on the floor, small blood smudge between overturned charis." caption="Militia promptly opened fire to protesters against Chedaki occupiers. (AAN World News)" >}}
+{{< figure src="vibor-square-after-incident" alt="Overturned chairs and blood smears at the Vibor Square monument Cartridges can be seen lying on the ground." caption="Militia promptly opened fire to protesters against Chedaki occupiers. (AAN World News)" >}}
 
-### TODO
+### PEACEFUL GATHERING TURNS INTO MASSACRE
 
-### TODO2
+It was a peaceful day when citizens of Vibor gathered at the town's square to commemorate victims of the last war. Prayer and memorial service were planned to be conducted by a local priest. The gathered quickly started to become agitated by the priest's words, regarding not only the past wars, but also current situation in Chernarus and its Chedaki occupation.
+As the unease grew more and more, with voices from the crowd shouting out Chedaki wrongdoings against local families, the priest invited everyone to take matters in their own hands - unknowingly starting a mostly peaceful protest. 
 
-<TODO:>
+### MILITIA ANSWERED WITH VIOLENCE
 
-### Militia's reputation is declining
+Despite facing a few angry people, the militia acted with disporportionate force, opening fire from their automatic rifles on the protesters within minutes. First bursts claimed lives of several Viborians and caused the rest to flee in panic. Those who successfully escaped were forced to hide in alleys around the quare, not to be hunted down.
+At this time we do not have exact information on the number of the victims, nor do we know if the conducting priest survived. We will follow up as soon as possible.
 
-<TODO: Z akapit tu>
+### MILITIA'S REPUTATION ON DECLINE
 
-We'll see what happens tomorrow in Zelenogorsk as people seem very pissed about Militia's incompetence.
+Multiple sources in Vibor and other parts of Chernarus have claimed that the militia has been going rampant for quite some time. Taking bribes for letting people through checkpoints - despite them having all necessary documents and cooperating - stealing cigarettes or ceasless questioning of the same people over and over again were not unusual among militia at every level of hierarchy. This came as a shock to Chernarussians, as their contacts with Chedaki have never been problematic, with the two nations coexisting in peace. It seems like putting a uniform on people changes everything.
+
+We will be monitoring the situation in Zelenogorsk in the following days, as people seem resentful towards militia's incompetence and may seek retribution.
