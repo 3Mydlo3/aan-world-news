@@ -23,7 +23,7 @@ As the unease grew more and more, with voices from the crowd shouting out Chedak
 ### MILITIA ANSWERED WITH VIOLENCE
 
 Despite facing a few angry people, the militia acted with disporportionate force, opening fire from their automatic rifles on the protesters within minutes. First bursts caused the crowd to flee in panic, luckily no one was shot or even wounded. Those who successfully escaped were forced to hide in alleys around the square, in order not to be taken to prison.
-The only wound suffered by Viborians was a sprained ankle.
+The only wounds suffered by Viborians was a sprained ankle and a bruise on a face sustained while hiding from fire.
 
 ### MILITIA'S REPUTATION ON DECLINE
 
